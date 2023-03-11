@@ -1,0 +1,62 @@
+[
+  {
+    "name": "⚙️ Setting",
+    "color": "e3dede",
+    "description": "개발 환경 세팅"
+  },
+  {
+    "name": "🐞 BugFix",
+    "color": "d73a4a",
+    "description": "버그 관련"
+  },
+  {
+    "name": "🧑‍🦼 Accessibility",
+    "color": "facfcf",
+    "description": "웹접근성 관련"
+  },
+  {
+    "name": "✨ Feature",
+    "color": "a2eeef",
+    "description": "새로운 기능 개발"
+  },
+  {
+    "name": "📬 API",
+    "color": "D4C5F9",
+    "description": "서버 API 통신 관련"
+  },
+  {
+    "name": "🎨 HTML & CSS",
+    "color": "FEF2C0",
+    "description": "마크업 & 스타일링 관련"
+  },
+  {
+    "name": "🙋‍♂️ Question",
+    "color": "9ED447",
+    "description": "질문 이슈"
+  },
+  {
+    "name": "💻 Cross Browsing",
+    "color": "C5DEF5",
+    "description": "크로스 브라우징 이슈 관련"
+  },
+  {
+    "name": "🔨 Refactor",
+    "color": "f29a4e",
+    "description": "코드 리팩토링"
+  },
+  {
+    "name": "🌏 Deploy",
+    "color": "C2E0C6",
+    "description": "배포 관련"
+  },
+  {
+    "name": "📘 Docs",
+    "color": "1D76DB",
+    "description": "문서 작성 및 수정 (e.g. README.md)"
+  },
+  {
+    "name": "💯 Test",
+    "color": "ccffc4",
+    "description": "테스트 관련 (e.g. Storybook)"
+  }
+]
