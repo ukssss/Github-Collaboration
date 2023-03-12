@@ -7,3 +7,4 @@
   - Bug Report (bug_report.md)
   - Feature Request (feature_request.md)
   - Refactor Template (refactor_template.md)
+- Pull Request Template (pull_request_template.md)
